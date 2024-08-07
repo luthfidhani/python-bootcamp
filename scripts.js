@@ -51,7 +51,7 @@ const profiles = [
   {
     name: "Alaikal Fajri Nur Alfian",
     title: "Admin Trainer | Refactory",
-    image: "https://luthfidhani.my.id/python-bootcamp/assets/images/alex.png",
+    image: "https://luthfidhani.my.id/python-bootcamp/assets/images/alex.jpg",
     socials: {
       github: "https://github.com/alaikal02/",
       linkedin: "https://www.linkedin.com/in/alaikal-fajri-96ba2022a/",
